@@ -1,2 +1,3 @@
 # PandaFirstProject
-Analyzing US Economic Data and Building a Dashboard
+
+Extracting essential data from a dataset and displaying it using Panda
